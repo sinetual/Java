@@ -1,1 +1,2 @@
-# Java Projekte, die ich durchgefuhrt habe.
+# Java Projekte
+Die ich durchgefuhrt habe.
